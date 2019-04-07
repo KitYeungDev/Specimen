@@ -1,2 +1,2 @@
 # Specimen
->> A Chrome Browser Plugin for searching bookmarks by keyword
+> A Chrome Browser Plugin for searching bookmarks by keyword
