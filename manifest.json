@@ -1,7 +1,7 @@
 {
-    "name": "Bookmarks Manager",
+    "name": "Specimen",
     "version": "1.0",
-    "description": "Chrome Bookmarks Management Tools",
+    "description": "A Chrome Bookmarks Management Plugin",
     "permissions": ["storage", "bookmarks"],
     "background": {
         "scripts": ["init.js"],
