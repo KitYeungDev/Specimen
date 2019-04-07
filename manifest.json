@@ -2,11 +2,7 @@
     "name": "Specimen",
     "version": "1.0",
     "description": "A Chrome Bookmarks Management Plugin",
-    "permissions": ["storage", "bookmarks"],
-    "background": {
-        "scripts": ["init.js"],
-        "persistent": false
-    },
+    "permissions": ["bookmarks"],
     "browser_action": {
         "default_popup": "index.html",
         "default_icon": {
